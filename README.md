@@ -18,3 +18,15 @@ In the repo it shows how to setup with PyCharm. I have followed those initially.
 - run main.py
 
 (NB: had to change several import locations internally. Mostly had to add the package name alongside the filename)
+
+# Marching Cube
+Github repo 1 : https://github.com/Eldemarkki/Marching-Cubes-Terrain
+
+Github repo 2: https://github.com/Scrawk/Marching-Cubes-On-The-GPU
+
+## Setup Steps
+- Download and install Unity
+-  clone the repos
+-  Open the repos with Unity, ot will prompt to download appropriate version. 
+-  Open the screen. 
+-  Run it using the play button. 
