@@ -25,8 +25,8 @@ Github repo 1 : https://github.com/Eldemarkki/Marching-Cubes-Terrain
 Github repo 2: https://github.com/Scrawk/Marching-Cubes-On-The-GPU
 
 ## Setup Steps
-- Download and install Unity
+- download and install Unity
 -  clone the repos
--  Open the repos with Unity, ot will prompt to download appropriate version. 
--  Open the screen. 
--  Run it using the play button. 
+-  open the repos with Unity, ot will prompt to download appropriate version. 
+-  open the screen. 
+-  run it using the play button. 
